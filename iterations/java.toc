@@ -1,0 +1,83 @@
+\contentsline {chapter}{\numberline {1}Jeu d'aventure}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}\leavevmode {\color {rr}It\IeC {\'e}ration 1 :}}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}\leavevmode {\color {bb}Exercice 7.1 :}}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}\leavevmode {\color {bb}Exercice 7.2 :}}{4}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}\leavevmode {\color {bb}Exercice 7.2.1 :}}{4}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}\leavevmode {\color {bb}Exercice 7.3 :}}{4}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}\leavevmode {\color {bb}Exercice 7.3.2 :}}{5}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}\leavevmode {\color {bb}Exercice 7.4 \& Exercice 7.17.2 :}}{5}{subsection.1.1.6}
+\contentsline {section}{\numberline {1.2}\leavevmode {\color {rr}It\IeC {\'e}ration 2 :}}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}\leavevmode {\color {bb}Exercice7.18 :}}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}\leavevmode {\color {bb}Exercice 7.18.1 :}}{6}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}\leavevmode {\color {bb}Exercice 7.18.2 :}}{6}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}\leavevmode {\color {bb}Exercice 7.18.3 :}}{6}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}\leavevmode {\color {bb}Exercice 7.18.4 :}}{6}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.6}\leavevmode {\color {bb}Exercice 7.18.5 :}}{6}{subsection.1.2.6}
+\contentsline {subsection}{\numberline {1.2.7}\leavevmode {\color {bb}Exercice 7.18.6 :}}{6}{subsection.1.2.7}
+\contentsline {subsection}{\numberline {1.2.8}\leavevmode {\color {bb}Exercice 7.18.7 :}}{7}{subsection.1.2.8}
+\contentsline {subsection}{\numberline {1.2.9}\leavevmode {\color {bb}Exercice 7.18.8 :}}{7}{subsection.1.2.9}
+\contentsline {subsection}{\numberline {1.2.10}\leavevmode {\color {bb}Exercice 7.19 \& Exercice 7.19.1 :}}{7}{subsection.1.2.10}
+\contentsline {subsection}{\numberline {1.2.11}\leavevmode {\color {bb}Exercice 7.19.2 :}}{7}{subsection.1.2.11}
+\contentsline {subsection}{\numberline {1.2.12}\leavevmode {\color {bb}Exercice 7.20 :}}{8}{subsection.1.2.12}
+\contentsline {subsection}{\numberline {1.2.13}\leavevmode {\color {bb}Exercice 7.21 :}}{8}{subsection.1.2.13}
+\contentsline {subsection}{\numberline {1.2.14}\leavevmode {\color {bb}Exercice 7.22 :}}{8}{subsection.1.2.14}
+\contentsline {subsection}{\numberline {1.2.15}\leavevmode {\color {bb}Exercice 7.22.1 :}}{9}{subsection.1.2.15}
+\contentsline {subsection}{\numberline {1.2.16}\leavevmode {\color {bb}Exercice 7.22.2 :}}{9}{subsection.1.2.16}
+\contentsline {subsection}{\numberline {1.2.17}\leavevmode {\color {bb}Exercice 7.23, Exercice 7.24 et Exercice 7.25:}}{9}{subsection.1.2.17}
+\contentsline {subsection}{\numberline {1.2.18}\leavevmode {\color {bb}Exercice 7.26 :}}{9}{subsection.1.2.18}
+\contentsline {subsection}{\numberline {1.2.19}\leavevmode {\color {bb}Exercice 7.26.1 :}}{9}{subsection.1.2.19}
+\contentsline {section}{\numberline {1.3}\leavevmode {\color {rr}It\IeC {\'e}ration 3 :}}{10}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}\leavevmode {\color {bb}Exercice7.28.1 :}}{10}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}\leavevmode {\color {bb}Exercice 7.28.2:}}{10}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}\leavevmode {\color {bb}Exercice 7.29:}}{10}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}\leavevmode {\color {bb}Exercice 7.30:}}{11}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}\leavevmode {\color {bb}Exercice 7.31 \& exercice 7.31.1:}}{11}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {1.3.6}\leavevmode {\color {bb}Exercice 7.32 \& exercice 7.33 :}}{12}{subsection.1.3.6}
+\contentsline {subsection}{\numberline {1.3.7}\leavevmode {\color {bb}Exercice 7.34:}}{12}{subsection.1.3.7}
+\contentsline {subsection}{\numberline {1.3.8}\leavevmode {\color {bb}Exercice 7.35 \& exercice 7.35.1:}}{12}{subsection.1.3.8}
+\contentsline {subsection}{\numberline {1.3.9}\leavevmode {\color {bb}Exercice 7.35.2:}}{12}{subsection.1.3.9}
+\contentsline {subsection}{\numberline {1.3.10}\leavevmode {\color {bb}Exercice 7.36, exercice 7.37, exercice 7.38, exercice 7.39, exercice 7.40 et exercice 7.41:}}{13}{subsection.1.3.10}
+\contentsline {section}{\numberline {1.4}\leavevmode {\color {rr}It\IeC {\'e}ration 4 :}}{13}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}\leavevmode {\color {bb}Exercice7.42 \& exercice7.42.1 :}}{13}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}\leavevmode {\color {bb}Exercice7.43 :}}{13}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}\leavevmode {\color {bb}Exercice7.44 :}}{13}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}\leavevmode {\color {bb}Exercice7.45 \& exercice7.45.1 :}}{14}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}\leavevmode {\color {bb}Exercice7.46 :}}{14}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {1.4.6}\leavevmode {\color {bb}Exercice7.46.2 :}}{15}{subsection.1.4.6}
+\contentsline {subsection}{\numberline {1.4.7}\leavevmode {\color {bb}Exercice7.46.3 :}}{15}{subsection.1.4.7}
+\contentsline {subsection}{\numberline {1.4.8}\leavevmode {\color {bb}Exercice7.47:}}{15}{subsection.1.4.8}
+\contentsline {subsection}{\numberline {1.4.9}\leavevmode {\color {bb}Exercice7.47.1:}}{15}{subsection.1.4.9}
+\contentsline {subsection}{\numberline {1.4.10}\leavevmode {\color {bb}Exercice 7.53: \& exercice 7.54 :}}{15}{subsection.1.4.10}
+\contentsline {subsection}{\numberline {1.4.11}\leavevmode {\color {bb}Exercice 7.58:}}{15}{subsection.1.4.11}
+\contentsline {subsection}{\numberline {1.4.12}\leavevmode {\color {bb}Exercice 7.59:}}{16}{subsection.1.4.12}
+\contentsline {chapter}{\numberline {2}Gestionnaire de stock}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}\leavevmode {\color {rr}It\IeC {\'e}ration 1}}{17}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}\leavevmode {\color {bb}Diagramme de cas d\IeC {\textquoteright }utilisation }}{17}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}\leavevmode {\color {bb}Description des \IeC {\'e}l\IeC {\'e}ments}}{17}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}\leavevmode {\color {bb} Le design des interfaces Homme-Machine de l\IeC {\textquoteright }application}}{18}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}\leavevmode {\color {rr}It\IeC {\'e}ration 2}}{18}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}\leavevmode {\color {bb}\IeC {\'E}tape 1 : Capture des exigences fonctionnelles}}{18}{subsection.2.2.1}
+\contentsline {subsubsection}{Diagramme des cas d\IeC {\textquoteright }utilisation}{18}{section*.2}
+\contentsline {subsubsection}{Fiche descriptive des cas importants}{18}{section*.3}
+\contentsline {subsection}{\numberline {2.2.2}\leavevmode {\color {bb}\IeC {\'E}tape 2 : \IeC {\'E}tude du mod\IeC {\`e}le statique}}{20}{subsection.2.2.2}
+\contentsline {subsubsection}{Diagramme de classe :}{20}{section*.4}
+\contentsline {subsubsection}{Dictionnaire de donn\IeC {\'e}es :}{20}{section*.5}
+\contentsline {subsection}{\numberline {2.2.3}\leavevmode {\color {bb}\IeC {\'E}tape 3 : \IeC {\'E}tude du mod\IeC {\`e}le dynamique}}{21}{subsection.2.2.3}
+\contentsline {subsubsection}{Diagramme de s\IeC {\'e}quence pour le cas d\IeC {\textquoteright }utilisation stock :}{21}{section*.6}
+\contentsline {subsubsection}{Diagrammes de s\IeC {\'e}quence pour le cas d\IeC {\textquoteright }utilisation caisse avec respectivement l\IeC {\textquoteright }achat et le remboursement :}{21}{section*.7}
+\contentsline {section}{\numberline {2.3}\leavevmode {\color {rr}It\IeC {\'e}ration 3}}{22}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}\leavevmode {\color {bb}Phase de conception }}{22}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}\leavevmode {\color {bb}Phase d\IeC {\textquoteright }impl\IeC {\'e}mentation}}{24}{subsection.2.3.2}
+\contentsline {subsubsection}{Compiler le programme dans le terminal :}{24}{section*.8}
+\contentsline {paragraph}{\textbf {Option 1 :}}{25}{section*.9}
+\contentsline {paragraph}{\textbf {Option 2 :}}{25}{section*.10}
+\contentsline {paragraph}{\textbf {Option 1:}}{26}{section*.11}
+\contentsline {paragraph}{\textbf {Option 2:}}{26}{section*.12}
+\contentsline {paragraph}{\textbf {Option 3:}}{26}{section*.13}
+\contentsline {paragraph}{\textbf {Option 4:}}{27}{section*.14}
+\contentsline {section}{\numberline {2.4}\leavevmode {\color {rr}It\IeC {\'e}ration 4}}{27}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}\leavevmode {\color {bb}Phase de conception}}{27}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}\leavevmode {\color {bb}Phase d'impl\IeC {\'e}mentation}}{27}{subsection.2.4.2}
+\contentsline {subsubsection}{I- Interface web JEE :}{27}{section*.15}
+\contentsline {subsubsection}{II- Interface Java Swing :}{31}{section*.16}
+\contentsline {section}{\numberline {2.5}Conclusion :}{34}{section.2.5}

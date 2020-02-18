@@ -1,0 +1,27 @@
+go east
+look
+go east
+look
+go east
+look
+go east
+look
+go west
+go west
+go west
+go west
+go west
+look
+go down
+look
+go up
+go west
+look
+go east
+go north
+look
+go up
+look
+go up
+go down
+go south
